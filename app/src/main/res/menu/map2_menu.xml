@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/seattle"
+        android:title="Seattle"
+        app:showAsAction="always">
+    </item>
+
+    <item
+        android:id="@+id/tokyo"
+        android:title="Tokyo"
+        app:showAsAction="always">
+    </item>
+
+    <item
+        android:id="@+id/dublin"
+        android:title="Dublin"
+        app:showAsAction="always"
+        >
+    </item>
+</menu>
